@@ -1,0 +1,45 @@
+# ----------------------------------------------------------------------
+# Mastercard Key
+# ----------------------------------------------------------------------
+.Key
+.RID = A0 00 00 00 04
+.Index = 03
+.HashAlgo = 01
+.PkAlgo = 01
+.Checksum = 5A DD F2 1D 09 27 86 61 14 11 79 CB EF F2 72 EA 38 4B 13 BB
+.Exponent = 03
+.ModLength = 00 80
+.Modulus =
+C2 49 07 47 FE 17 EB 05 84 C8 8D 47 B1 60 27 04
+15 0A DC 88 C5 B9 98 BD 59 CE 04 3E DE BF 0F FE
+E3 09 3A C7 95 6A D3 B6 AD 45 54 C6 DE 19 A1 78
+D6 DA 29 5B E1 5D 52 20 64 5E 3C 81 31 66 6F A4
+BE 5B 84 FE 13 1E A4 4B 03 93 07 63 8B 9E 74 A8
+C4 25 64 F8 92 A6 4D F1 CB 15 71 2B 73 6E 33 74
+F1 BB B6 81 93 71 60 2D 89 70 E9 7B 90 07 93 C7
+C2 A8 9A 4A 16 49 A5 9B E6 80 57 4D D0 B6 01 45
+.End
+
+# ----------------------------------------------------------------------
+# Unknown Key
+# ----------------------------------------------------------------------
+.Key
+.RID = A0 00 00 06 58
+.Index = 33
+.HashAlgo = 01
+.PkAlgo = 01
+.Checksum = 1D 1D 46 0D 33 8C F4 36 F9 A0 58 7E 83 A8 59 27 DD D1 74 E8
+.Exponent = 01 00 01
+.ModLength = 00 90
+.Modulus =
+A8 30 6E 9E 57 9A A0 71 AE 06 DC 87 B8 DC 5E 1F
+61 8B 6F 37 DE 4A FB BA B9 A3 7E 21 73 8C 5E 19
+BC 4A 13 06 89 A1 1E D1 0D D6 BE DD FD A6 31 8E
+44 AE 2A EB 5E 5C 62 AF CF BF 54 71 71 35 EE 0D
+C0 71 55 61 9D 20 74 D6 6D BA A0 1A DF DA 76 38
+A6 61 C8 EA 31 BE 6D 05 30 BE BF BA 9E 4C 74 88
+73 C6 57 58 87 76 1F A4 E0 E2 C5 30 F1 D8 1E A3
+E2 F0 40 8B 13 FD CA 97 59 5D 69 5E 92 B4 52 6A
+86 F0 33 AE 95 C7 98 72 AF F7 16 5C CF 7A 08 FD
+.End
+
